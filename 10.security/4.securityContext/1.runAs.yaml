@@ -4,8 +4,8 @@ metadata:
   name: runas
 spec:
   securityContext:
-    runAsUser: 1000
-    fsGroup: 1000
+    runAsUser: 1001
+    fsGroup: 2001
   volumes:
   - name: mydisk
     emptyDir: {}
