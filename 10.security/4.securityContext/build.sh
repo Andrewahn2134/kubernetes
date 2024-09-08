@@ -1,1 +1,1 @@
-docker build -t gcr.io/terrycho-sandbox/security-context:v1 .
+docker build -t andrewahn2134/security-context:v1 .
